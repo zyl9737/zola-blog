@@ -13,9 +13,9 @@ name = "Ryuzen"
 bio = "A simple guy who loves coding and sharing."
 avatar = "img/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/<zyl9737>" },
-    { name = "Email", icon = "email", url = "mailto:<zylbing@qq.com>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<Icemoonday1>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/zyl9737" },
+    { name = "Email", icon = "email", url = "mailto:zylbing@qq.com" },
+    { name = "Twitter", icon = "twitter", url = "https://x.com/RyuzenOvO" },
 ]
 
 # Show a few recent posts in home page
