@@ -20,7 +20,11 @@ links = [
 
 # Show a few recent posts in home page
 recent = true
-recent_max = 15
+recent_max = 10
 recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
+
+Welcome to my blog! Here, I share my thoughts on programming, technology, and life. I hope you find something interesting and useful here. Feel free to explore the posts and leave your comments!
+
+Recents:

@@ -86,3 +86,12 @@ Cloudflare handles all of it automatically.
 ## Recommended Tech Stack
 
 ![stack](https://img.zhengyulong.top/2026/02/20260221003651390.png)
+
+## Conclusion
+
+Cloudflare Full Stack is a game-changer for Vibe Coders. It eliminates the traditional barriers of web development, allowing you to focus on building your vision while Cloudflare takes care of the rest. Whether you're creating a simple blog or a complex web application, Cloudflare's powerful yet user-friendly platform has you covered.
+
+## References
+
+- [Cloudflare R2 + PicGo 免费图床教程](https://linux.do/t/topic/193442)
+- [给 Vibe Coder 的 Cloudflare 101：AI 帮你写完代码，下一步该做什么？](https://x.com/EuSiir/status/2024808924642476503)
