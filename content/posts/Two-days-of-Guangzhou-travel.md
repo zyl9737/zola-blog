@@ -1,6 +1,6 @@
 +++
 title = "A Two-Day Journey Through Guangzhou: Culture, History, and Nightlife"
-date = 2026-02-13
+date = 2026-02-09
 categories = ["travel"]
 tags = ["guangzhou", "travel", "china", "culture", "photography"]
 +++
