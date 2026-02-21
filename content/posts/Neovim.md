@@ -74,9 +74,10 @@ Oh My Tmux uses `Ctrl-a` as the prefix (instead of default `Ctrl-b`):
 | Action | Keybinding |
 |--------|------------|
 | Create new window | `Prefix + c` |
-| Switch windows | `Prefix + 0-9` |
-| Split horizontal | `Prefix + -` |
-| Split vertical | `Prefix + \|` or `Prefix + _` |
+| Switch windows | `Prefix + 0-9` or `<prefix> C-h` and `<prefix> C-l` |
+| Switch to the last active winwon | `<prefix> Tab` |
+| Split horizontal | `Prefix + "` |
+| Split vertical | `Prefix + %` |
 | Navigate panes | `Prefix + hjkl` or `Prefix + arrow keys` |
 | Zoom pane | `Prefix + z` |
 | Resize panes | `Prefix + Alt + hjkl` |
@@ -238,7 +239,7 @@ Sometimes it's faster to use Neovim's built-in terminal:
 # Run quick commands without leaving Neovim
 ```
 
-```
+
 
 ### Common Vibecoding Scenarios
 
@@ -327,7 +328,7 @@ The key to mastering this setup is not memorizing every shortcut, but building m
 
 1. **Navigation**: `Ctrl-a + hjkl` for Tmux, `Ctrl-hjkl` for Neovim windows
 2. **Claude Code**: `Shift + Enter` for multi-line input, `/help` when you're stuck
-3. **Session management**: Save your Tmux sessions and Neovim sessions for quick恢复
+3. **Session management**: Save your Tmux sessions and Neovim sessions for quick Restore.
 
 The learning curve might seem steep, but the productivity gains are worth it. Start with the basics—master the essential keybindings, set up your preferred session layout using the `vibecode` script, and gradually incorporate more advanced features into your workflow.
 
