@@ -177,6 +177,8 @@ Here's how I use these three tools together in a typical coding session:
 └─────────────────────────────────────────────────────┘
 ```
 
+![3 windows](https://img.zhengyulong.top/2026/02/20260221205758285.png)
+
 #### Step-by-Step Example
 
 1. **Start the session**:
