@@ -138,7 +138,10 @@ Now let's dive deeper into how these three tools work together seamlessly. Claud
 | New line (send) | `Enter` |
 | New line (no send) | `Alt + Enter` |
 | Navigate history | `Up/Down arrows` |
-| Edit in Editor | Ctrl + g | 
+| Edit in Editor | Ctrl + g |
+                           
+
+![Claude Code shortcut](https://img.zhengyulong.top/2026/02/20260221211208993.png)
 
 #### Tmux Pane Navigation (Oh My Tmux)
 | Action | Shortcut |
@@ -177,7 +180,6 @@ Here's how I use these three tools together in a typical coding session:
 └─────────────────────────────────────────────────────┘
 ```
 
-![3 windows](https://img.zhengyulong.top/2026/02/20260221205758285.png)
 
 #### Step-by-Step Example
 
